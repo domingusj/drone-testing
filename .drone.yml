@@ -1,5 +1,5 @@
 pipeline:
   build:
-    image: ubuntu
+    image: czops/puppet-rake
     commands:
-      - cat /etc/*release*
+      - --version
