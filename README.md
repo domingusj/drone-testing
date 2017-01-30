@@ -1,2 +1,2 @@
 # drone-testing
-testing drone.iio
+testing drone.io
