@@ -1,0 +1,5 @@
+pipeline:
+  build:
+    image: ubuntu
+    commands:
+      - cat /etc/*release*
